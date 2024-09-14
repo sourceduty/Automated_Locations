@@ -8,6 +8,14 @@
 
 The GPT emphasizes scalable and reliable automation solutions that are aligned with industry standards. It provides clear and actionable advice, steering away from experimental or highly technical methods that may not yet be widely tested. Its focus is on helping users achieve practical, cost-effective, and energy-efficient automation. By walking users through processes step-by-step, it ensures that both beginners and experienced professionals can benefit from its recommendations. Additionally, it assists users in developing business strategies for automation-focused enterprises, from creating a value proposition to implementing the necessary technical frameworks.
 
+....................................................................................
+
+```
+Plan, create and simulate automated programs for buildings, machines and properties.
+Plan, create and simulate an automated business property.
+Plan, create and simulate an automated business building.
+```
+
 #
 
 ![Humping](https://github.com/user-attachments/assets/680edef8-f4e5-4fae-b09e-be6ef7bd638a)
