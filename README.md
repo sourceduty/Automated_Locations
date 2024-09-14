@@ -16,6 +16,12 @@ The GPT emphasizes scalable and reliable automation solutions that are aligned w
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Business Automation](https://github.com/sourceduty/Business_Automation)
+<br>
+[Benchmark Automation](https://github.com/sourceduty/Benchmark_Automation)
+<br>
+[Hack Automation](https://github.com/sourceduty/Hack_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
