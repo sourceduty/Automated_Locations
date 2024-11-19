@@ -52,6 +52,8 @@ The benefits of fully automated locations go beyond efficiency and include safet
 [Benchmark Automation](https://github.com/sourceduty/Benchmark_Automation)
 <br>
 [Hack Automation](https://github.com/sourceduty/Hack_Automation)
+<br>
+[Building Service](https://github.com/sourceduty/Building_Service)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
