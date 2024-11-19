@@ -30,6 +30,15 @@ Automated business locations, often referred to as "dark stores" or "dark factor
 In addition to in-store automation, the logistics of transporting goods are also being revolutionized by automated vehicles. Autonomous delivery trucks and drones are being integrated into supply chains, providing seamless and efficient delivery solutions. These automated delivery systems can optimize routes in real-time, avoid traffic congestion, and operate continuously, ensuring faster and more reliable service. As a result, businesses are able to reduce delivery times and costs, further enhancing their competitiveness in the market. This shift toward fully automated business models represents a significant transformation in how goods are produced, managed, and delivered, reshaping traditional business practices and creating new opportunities for innovation.
 
 #
+### Automatization
+
+![Store](https://github.com/user-attachments/assets/98d8413d-0f64-4cc1-966d-6900e19f2a2e)
+
+The transition of stores to cashless systems marks a significant shift in retail operations, driven by advances in digital payment technologies and the growing preference for seamless shopping experiences. Initially, cashless payments gained traction through the adoption of credit and debit cards, followed by the emergence of mobile payment platforms and digital wallets like Apple Pay and Google Pay. This evolution enabled faster transactions, reduced the need for cash handling, and improved operational efficiency. Alongside these developments, stores began implementing self-checkout systems, empowering customers to scan, bag, and pay for items independently. Self-checkout appealed to both retailers, who benefitted from reduced labor costs, and customers, who valued the convenience and speed.
+
+Looking ahead, stores are poised to incorporate robots as attendants to further streamline operations and enhance customer experiences. Robots could assist with restocking shelves, providing product recommendations, or guiding shoppers through the store. However, there will also be stores that embrace a minimalist approach, forgoing both human and robotic attendants in favor of fully automated systems. Such stores, like Amazon Go, use technologies such as computer vision and artificial intelligence to enable customers to shop without traditional checkout processes, creating a frictionless experience. This blend of robotic and non-robotic automation reflects the diverse strategies retailers are adopting to cater to evolving consumer expectations and operational demands.
+
+#
 ### Human-Free Automated Locations
 
 ![Robots](https://github.com/user-attachments/assets/4444f547-ebfe-4add-81c8-e32cd0988bbb)
