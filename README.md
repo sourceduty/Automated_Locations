@@ -32,7 +32,7 @@ In addition to in-store automation, the logistics of transporting goods are also
 #
 ### Automatization
 
-![Store](https://github.com/user-attachments/assets/98d8413d-0f64-4cc1-966d-6900e19f2a2e)
+![Store](https://github.com/user-attachments/assets/486e930f-993e-4962-9430-04bc0f202732)
 
 The transition of stores to cashless systems marks a significant shift in retail operations, driven by advances in digital payment technologies and the growing preference for seamless shopping experiences. Initially, cashless payments gained traction through the adoption of credit and debit cards, followed by the emergence of mobile payment platforms and digital wallets like Apple Pay and Google Pay. This evolution enabled faster transactions, reduced the need for cash handling, and improved operational efficiency. Alongside these developments, stores began implementing self-checkout systems, empowering customers to scan, bag, and pay for items independently. Self-checkout appealed to both retailers, who benefitted from reduced labor costs, and customers, who valued the convenience and speed.
 
